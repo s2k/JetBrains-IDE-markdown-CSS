@@ -13,4 +13,4 @@ Yes. I may be a bit inconsistent in this respect. 😃
 * Clone the repository
 * Copy the location of `./ide-css-for-markdown.css`
 * Open the settings in IntelliJ/RubyMine/…
-  ![Die IDE settings dialog that show the settings for 'Markdown' in 'Languages & Frameworks' -> 'Markdown'. The checkbox labelled 'Load from' is checked and the text field contains the CSS file in this repository](./settings-dialog-in-IDE.png){width=100}! 
+  ![Die IDE settings dialog that show the settings for 'Markdown' in 'Languages & Frameworks' -> 'Markdown'. The checkbox labelled 'Load from' is checked and the text field contains the CSS file in this repository](./settings-dialog-in-IDE.png)! 
