@@ -1,0 +1,10 @@
+html {
+    background-color: white !important;
+    color: black;
+    }
+
+body, code, p, ol, ul {
+  background-color: white;
+  color: black !important;
+ }
+
