@@ -4,7 +4,7 @@ html {
     }
 
 body, code, p, ol, ul {
-  background-color: white;
+  background-color: white !important;
   color: black !important;
  }
 
